@@ -24,7 +24,7 @@ namespace CustomApproval.Web
                 {
                     EmailApproveSubject = "You have been approved",
                     EmailApproveHtmlContent =
-                    "<p>Hi,</p><p>You have been approved as a partner with Woodgrove.</p>Please <a href='{Settings:RedirectUrl}'>click here </a> to continue to the site.<p>Regards,</p><p>The WoodGrove Team</p>"
+                    "<p>Hi,</p><p>You have been approved as a user with Bible Study Fellowship.</p>Please <a href='{Settings:RedirectUrl}'>click here </a> to continue to the site.<p>Regards,</p><p>New Value Solutions</p>"
                 }
              },
             {
@@ -32,7 +32,7 @@ namespace CustomApproval.Web
                 {
                     EmailApproveSubject = "Has sido aprobado",
                     EmailApproveHtmlContent =
-                                    "<p>Hola,</p><p>Usted ha sido aprobado como socio de Woodgrove.</p>Por favor <a href='{Settings:RedirectUrl}'>haga clic aquí </a> para continuar al sitio.<p>Saludos,</p><p>El equipo de WoodGrove</p>"
+                                    "<p>Hola,</p><p>Usted ha sido aprobado como socio de .</p>Por favor <a href='{Settings:RedirectUrl}'>haga clic aquí </a> para continuar al sitio.<p>Saludos,</p><p>El equipo de </p>"
                 }
             }
         };
